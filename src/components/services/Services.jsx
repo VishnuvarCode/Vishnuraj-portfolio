@@ -17,7 +17,7 @@ const data = [
         image: Image2,
         title: "Web Development",
         description:
-            "Ensuring that that a website meets the correct standards, and also ensuring it's well maintained",
+            "Ensuring that a website meets the correct standards, and also ensuring it's well maintained",
     },
     {
         id: 3,
