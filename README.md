@@ -53,7 +53,7 @@ This repository includes detailed examples of my work, code snippets, and demons
 $ git clone https://github.com/VishnuvarCode/Vishnuraj-portfolio.git
 
 # Go into the repository
-$ cd gregsithole-react-portfolio
+$ cd Vishnuraj-portfolio
 
 # Install dependencies
 $ yarn install
