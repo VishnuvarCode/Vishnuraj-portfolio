@@ -155,6 +155,9 @@
   .about__data {
     grid-template-columns: 1fr;
     row-gap: 1.875rem;
+    overflow-y: scroll;
+    scrollbar-width: none;
+    max-height: 500px;
   }
 
   .about__boxes {
