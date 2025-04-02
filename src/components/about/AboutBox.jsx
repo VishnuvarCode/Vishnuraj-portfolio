@@ -11,7 +11,7 @@ const AboutBox = () => {
     useEffect(() => {
         // Initialize CountUp instances for each number
         const experienceCount = new CountUp(experienceRef.current, 2);
-        const repositoriesCount = new CountUp(repositoriesRef.current, 4);
+        const repositoriesCount = new CountUp(repositoriesRef.current, 7);
         const projectsCount = new CountUp(projectsRef.current, 3);
         const qualityCount = new CountUp(qualityRef.current, 100);
 

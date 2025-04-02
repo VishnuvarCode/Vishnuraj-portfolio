@@ -81,7 +81,7 @@ const About = () => {
           </div>
           <br />
 
-          <div className="about__skills grid">
+          {/* <div className="about__skills grid">
             <div className="skills__data">
               <div className="skills__titles">
                 <h3 className="skills__name">Development</h3>
@@ -95,7 +95,7 @@ const About = () => {
 
             <div className="skills__data">
               <div className="skills__titles">
-                <h3 className="skills__name">UI/UX Design</h3>
+                <h3 className="skills__name">Frontend Design</h3>
                 <span className="skills__number">80%</span>
               </div>
 
@@ -114,7 +114,7 @@ const About = () => {
                 <span className="skills__percentage photography"></span>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
 
