@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import "./About.css";
 import Image from "../../assets/my.png";
-import Resume from "../../assets/Vishnuraj_FullStack_DotNet_Resume.pdf";
+import Resume from "../../assets/Vishnuraj_FullStack_Resume.pdf";
 import AboutBox from "./AboutBox";
 
 const About = () => {
